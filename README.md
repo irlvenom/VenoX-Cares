@@ -25,7 +25,7 @@ Once a user submits the form, our team reviews the request and contacts the user
 ## Project Link
 
 You can view the project here:
-[https://github.com/irlvenom/VenoX-Care](https://github.com/irlvenom/VenoX-Cares.git)
+https://github.com/irlvenom/VenoX-Cares.git
 
 ## Technologies Used
 
